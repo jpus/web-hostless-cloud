@@ -1,0 +1,6 @@
+aiohttp
+psutil
+grpcio
+protobuf
+distro
+py-cpuinfo
